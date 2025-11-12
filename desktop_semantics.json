@@ -1,7 +1,7 @@
 {
   "latest": {
     "windows_new_version": "4.2.21",
-    "mac_new_version": "4.2.3",
+    "mac_new_version": "4.2.20",
     "force_windows": false,
     "force_macos": false,
     "url_windows": "https://test-cdn-grocery.makebillz.top/BILLZ_2_Desktop_Setup_4.2.21+235.exe",
