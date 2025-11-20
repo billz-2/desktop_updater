@@ -4,7 +4,7 @@
     "mac_new_version": "1.0.0",
     "force_windows": false,
     "force_macos": false,
-    "url_windows": "https://test-cdn-grocery.makebillz.top/BILLZ_2_Desktop_OFD_Setup_1.0.0+1.exe",
+    "url_windows": "https://test-cdn-grocery.makebillz.top/BILLZ_OFD_Setup_1.0.0+1.exe",
     "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
   }
 }
