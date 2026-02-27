@@ -1,10 +1,10 @@
 {
   "latest": {
-    "windows_new_version": "4.2.25",
-    "mac_new_version": "4.2.20",
+    "windows_new_version": "4.2.27",
+    "mac_new_version": "4.2.27",
     "force_windows": true,
-    "force_macos": false,
-    "url_windows": "https://test-cdn-grocery.makebillz.top/BILLZ_2_Desktop_Setup_4.2.25+246.exe",
+    "force_macos": true,
+    "url_windows": "https://test-cdn-grocery.makebillz.top/BILLZ_2_Desktop_Setup_4.2.27+252.exe",
     "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
   },
   "2.5.2": true,
