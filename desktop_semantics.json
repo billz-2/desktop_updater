@@ -1,10 +1,10 @@
 {
   "latest": {
-    "windows_new_version": "4.3.0",
-    "mac_new_version": "4.3.0",
+    "windows_new_version": "4.4.0",
+    "mac_new_version": "4.4.0",
     "force_windows": true,
     "force_macos": true,
-    "url_windows": "https://test-cdn-grocery.makebillz.top/BILLZ_2_Desktop_Setup_4.3.0+253.exe",
+    "url_windows": "https://billz2-cdn-dev-staging.fra1.digitaloceanspaces.com/BILLZ_2_Desktop_Setup_4.4.0+306.exe",
     "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
   },
   "2.5.2": true,
@@ -23,5 +23,9 @@
   "2.9.6": true,
   "2.9.7": true,
   "4.2.0": true,
-  "4.2.10": true
+  "4.2.10": true,
+  "4.3.0": true,
+  "4.3.1": true,
+  "4.3.2": true,
+  "4.3.3": true
 }
