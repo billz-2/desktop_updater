@@ -2,8 +2,8 @@
   "latest": {
     "windows_new_version": "4.5.0",
     "mac_new_version": "4.5.0",
-    "force_windows": true,
-    "force_macos": true,
+    "force_windows": false,
+    "force_macos": false,
     "url_windows": "https://min-dev.makebillz.top/billz-desktop/BILLZ_2_Desktop_Setup_4.5.0+338.exe",
     "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
   },
@@ -29,5 +29,5 @@
   "4.3.2": true,
   "4.3.3": true,
   "4.4.0": true,
-  "4.4.1": true
+  "4.4.1": false
 }
