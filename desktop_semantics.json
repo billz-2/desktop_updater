@@ -1,7 +1,7 @@
 {
   "latest": {
     "windows_new_version": "4.6.0",
-    "mac_new_version": "4.5.1",
+    "mac_new_version": "4.6.0",
     "force_windows": false,
     "force_macos": false,
     "url_windows": "https://min-dev.makebillz.top/billz-desktop/BILLZ_2_Desktop_Setup_4.6.0+401.exe",
