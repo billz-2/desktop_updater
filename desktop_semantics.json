@@ -1,6 +1,6 @@
 {
   "latest": {
-    "windows_new_version": "4.8.1",
+    "windows_new_version": "4.8.0",
     "mac_new_version": "4.7.0",
     "force_windows": false,
     "force_macos": false,
