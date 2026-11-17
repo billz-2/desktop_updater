@@ -1,11 +1,11 @@
 {
   "latest": {
-    "windows_new_version": "4.14.0",
-    "mac_new_version": "4.13.0",
+    "windows_new_version": "4.18.1",
+    "mac_new_version": "4.18.1",
     "force_windows": false,
     "force_macos": false,
-    "url_windows": "https://min-dev.makebillz.top/billz-desktop/velopack/pilot/windows/desktop-windows-v4.14.0-build.622/BillzDesktop-pilot-win-x64-Setup.exe",
-    "url_macos": "https://apps.apple.com/uz/app/billz-2-0-desktop/id6443713618?mt=12"
+    "url_windows": "https://min-dev.makebillz.top/billz-desktop/velopack/pilot/windows/desktop-windows-v4.18.1-build.707/BillzDesktop-pilot-win-x64-Setup.exe",
+    "url_macos": "https://min-dev.makebillz.top/billz-desktop/velopack/pilot/macos/4.18.1-build.708/BillzDesktop-4.18.1-build.708-osx-arm64.dmg"
   },
   "2.5.2": true,
   "2.5.3": true,
@@ -42,5 +42,12 @@
   "4.11.1": true,
   "4.11.2": true, 
   "4.12.0": true,
-  "4.13.0": true
+  "4.13.0": true,
+  "4.14.0": false,
+  "4.14.1": false,
+  "4.15.0": false,
+  "4.15.1": false,
+  "4.16.0": false,
+  "4.17.0": false,
+  "4.18.0": false
 }
